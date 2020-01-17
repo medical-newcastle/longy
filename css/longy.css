@@ -1,6 +1,6 @@
 
 body {
-  background-color : rgba( 139, 188,  79, 1);
+  background-color : rgba( 139, 188,  79, 0.45);
   background-image : url('../raster.png');
 }
 
